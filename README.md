@@ -1,5 +1,7 @@
 # Clojure Koans
 
+[![CircleCI](https://circleci.com/gh/bjfish/clojure-koans.svg?style=svg)](https://circleci.com/gh/bjfish/clojure-koans)
+
 The Clojure Koans are a fun way to get started with Clojure - no experience
 assumed or required. Follow the instructions below to start making tests pass!
 
